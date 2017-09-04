@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Ari",
+    "SHORT" : "Posts Nsfw Images From X Sites (LoliBooru Removed)",
+    "DESCRIPTION" : "Posts Nsfw Images From X Sites (LoliBooru removed)",
+    "DISABLED" : false,
+    "NAME" : "Nsfw",
+    "REQUIREMENTS" : ["bs4"],
+    "TAGS" : ["nsfw"],
+    "INSTALL_MSG" : "NSFW Cog downloaded! I, ari, removed LoliBooru to comply with discord ToS, as lolicon is outright not allowed."
+}
